@@ -24,7 +24,7 @@ Python, pandas, scikit-learn, matplotlib, seaborn
 
 ## How to run
 
-Open `house_price_prediction.ipynb` in Colab or Jupyter. Dataset: Ames Housing from Kaggle.
+Open `House_price_prediction.ipynb` in Colab or Jupyter. Dataset: Ames Housing from Kaggle.
 
 ## What I'd improve
 
